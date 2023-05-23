@@ -1,0 +1,188 @@
+﻿{
+  "main": {
+    "name":"AdeelAhmed Dar",
+    "occupation":"Senior Full Stack Developer",
+    "description":"",
+    "image":"profilepic.jpeg",
+    "bio":"- As a full-stack developer with a broad and versatile coding skill set, I excel at quickly transforming ideas and prototypes into reality for startups and enterprises. During my career, I have been focusing on using Javascript/Typescript technologies(React.js, Node.js, Angular, Next.js, etc) with GraphQL, AWS, CI/CD and other web technologies",
+    "bio1":"As a software engineer with 9 years of experience, the values I can bring to the team include good software skills and team culture. I continuously seek to improve the performance of project and code quality with insatiable curiosity",
+    "bio2":"- As a customer-focused engineer, I am always trying to make sure that we are solving the big valuable problems and understand the needs of each and every potential projects",
+    "bio3":"- I am the go-to guy for any of your development needs.",
+    "bio4": "I love working with great people, inspiring others, and being inspired.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "adeeldarabs@gmail.com",
+    "phone": "",
+    "address":{
+      "street":"Parkistan", 
+      "city":"Parkistan",
+      "state":"",
+      "zip": ""
+    },
+    "templateId": "template_0FHEgYVn",
+    "website": "",
+    "resumedownload":"https://drive.google.com/file/d/1JyXkiW-1wgsZ3mqi_r7UJv7NY2pgGpWc/view",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com",
+        "className":"fab fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com",
+        "className":"fab fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"https://join.skype.com",
+        "className":"fab fa-skype"
+      },
+      {
+        "name":"mail",
+        "url":"mailto: adeeldarabs@gmail.com",
+        "className":"fa fa-envelope"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"University of Indonesia",
+        "degree":"Bachelor's of Computer Application",
+        "graduated":"April 2010",
+        "description":"- Studying and Developing under 'Harder Choices and Easy Life'"
+      }
+    ],
+    "work":[
+      {
+        "company":"Braintrust",
+        "title":"Senior Javascript Engineer",
+        "years":"Nov 2022 - Present",
+        "description": "- Worked as a senior JavaScript developer for many different products for different clients",
+        "description1": "- Provide full stack web development and maintain products for clients using different web technologies",
+        "description2": "Technologies: JavaScript, Typescript, React, Angular, Vue, Node.js, Next.js, Gatsby.js, Django"
+      },
+      {
+        "company":"Upwork",
+        "title":"Web Developer",
+        "years":"Aug 2020 - Nov 2022",
+        "description":"- Currently Looking For Full-Time Remote Contract",
+        "description1":"- Helping start-ups and small to medium business providing full stack web and mobile development solutions using JavaScript/Typescript technologies(Django plus)",
+        "description2":"- Place a high priority on customer satisfaction, easy to work with, and comfortable in agile environments.",
+        "description3":"Technologies: PHP, WordPress, Javascript, Angular, React"
+      },
+      {
+        "company":"Fiverr",
+        "title":"Web Developer",
+        "years":"Mar 2018 - Aug 2020",
+        "description":"- Designed and implemented responsive websites and developed cross-platform apps",
+        "description1": "- Developed a real-time trading graph using D3.js which has tickers for seven days, one day, one hour, and instant; built it all from scratch.",
+        "description2": "- Customize the Serverless/AWS project depends on Gatsby.js and Next.js",
+        "description3": "Technologies: PHP, WordPress, Javascript, Angular, React"
+      }
+    ],
+    "skills":[
+      {
+        "name":"JavaScript",
+        "level":"100%"
+      },
+      {
+        "name":"Typescript",
+        "level":"100%"
+      },
+      {
+        "name":"React.js",
+        "level":"80%"
+      },
+      {
+        "name":"Next.js",
+        "level":"100%"
+      },
+      {
+        "name":"Django",
+        "level":"60%"
+      },
+      {
+        "name":"Node.js",
+        "level":"80%"
+      },
+      {
+        "name":"Angular",
+        "level":"90%"
+      },
+      {
+        "name":"PHP",
+        "level":"70%"
+      },
+      {
+        "name":"D3",
+        "level":"80%"
+      },
+      {
+        "name":"GraphQL",
+        "level":"90%"
+      },
+      {
+        "name":"Laravel",
+        "level":"90%"
+      },
+      {
+        "name":"Firebase",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"E-Learning Platform - Create&Learn ",
+        "category":"Greatest Online Learning Platform Using React, Node, Next.js, GraphQL, Zoom Api",
+        "image":"image (6).png",
+        "url":"https://www.create-learn.us/"
+      },
+      {
+        "title":"Business App - Emproveit",
+        "category":"MERN Application",
+        "image":"image (1).png",
+        "url":"https://emproveit.com/"
+      },
+      {
+        "title":"Haven - Your World. Kept Private",
+        "category":"React Native / iOS, Android App",
+        "image":"image (2).jpg",
+        "url":"https://gethaven.app/"
+      },
+      {
+        "title":"Education App",
+        "category":"Web and Mobile Development using React/React Native techs",
+        "image":"image (3).png",
+        "url":"https://www.mhighpoint.com/"
+      },
+      {
+        "title":"Internal Design App - Modsy",
+        "category":"MERN Application",
+        "image":"image (4).png",
+        "url":"https://www.modsy.com/"
+      },
+      {
+        "title":"StoryTree - Django, React Native based Social App",
+        "category":"StoryTree is social networking app that makes relatives be in touch with their loved ones in an easy way.",
+        "image":"image (5).png",
+        "url":"https://getsimpleprints.com/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"AdeelAhmed Dar is an outstanding software engineer and truly one of the best communicators I've ever had the pleasure to work with.",
+        "user":"Andrew Longo - Directly Hired Adeel"
+      },
+      {
+        "text":"His engineering experience crosses the entire web stack - most recently React/Redux and Node application development for GraphQL Designer - to rapidly prototype a full-stack GraphQL application. His engineering approach emphasizes building truly scalable applications with AWS EC2, integrating dynamic load balancing and scalable servers",
+        "user":"Dehininet Birhan - Product Manager at Curate"
+      }
+    ]
+  }
+}
